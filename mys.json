@@ -19,7 +19,7 @@
       "filterable": 0
     },
     {
-      "key": "missav",
+      "key": "57",
       "name":"57短剧",
       "type": 3,
       "api": "https://raw.githubusercontent.com/hengdown/mysources/main/57dj.py",
