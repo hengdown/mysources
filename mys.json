@@ -36,13 +36,6 @@
       "quickSearch": 1,
       "filterable": 0
     }
-  ],
-  "lives": [
-    {
-      "name": "色播聚合",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/hengdown/mysources/main/live.m3u"
-    }
   ]
 }
 
