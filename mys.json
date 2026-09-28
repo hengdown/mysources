@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "key": "qiyou",
+      "name": "奇优影院·蝴蝶版",
+      "type": 3,
+      "api": "./qiyou.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yinhua",
+      "name": "淫花宫",
+      "type": 3,
+      "api": "./yinhua.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ]
+}
