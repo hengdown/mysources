@@ -38,7 +38,7 @@
     },
     {
       "key": "tiktok",
-      "name":"pornTok·短视频",
+      "name":"PornTok·短视频",
       "type": 3,
       "api": "https://raw.githubusercontent.com/hengdown/mysources/main/tiktok.py",
       "searchable": 1,
