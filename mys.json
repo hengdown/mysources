@@ -17,6 +17,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "missav",
+      "name": "missav免翻全分类版",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/hengdown/mysources/main/xxx.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 }
